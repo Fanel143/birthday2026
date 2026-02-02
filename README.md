@@ -41,13 +41,7 @@ You can customize:
   finalScreenHeading, overlayText, overlayMessage
   Customize the heading and overlay text
 - ✅ **Background Music**  
-  Place a `.mp3` file inside `public/audio` and update the path in `data.js`
-
-📝 All sections have comments in `data.js` to guide you.
-
-> 💡 No need to touch any other files. Keep everything clean and simple!
-
-🎥 For step-by-step help, watch the `https://drive.google.com/file/d/1nx-QQUKcjdREjBA6w_DooIzegwpRP0BB/view?usp=sharing` video.
+  Place a `.mp3` file inside `public/audio` and update the path in `data.js
 
 ---
 
@@ -60,11 +54,6 @@ Want to share this as a live website? Follow these steps:
 3. Go to [vercel.com](://vercel.cohttpsm), log in, connect your GitHub, and import your repo.
 4. Click **Deploy** — your live site link will be ready to share! 🔗 Or you can watch any youtube video on how to host nextjs project on vercel.
 
----
-
-## 🧠 Need Help?
-
-DM me on Instagram 👉 [@anujbuilds](https://instagram.com/anujbuilds)
 
 ---
 
